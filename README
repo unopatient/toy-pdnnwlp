@@ -9,5 +9,5 @@ We need this for the dsicretization of $x$, $y$, and $\phi$ via approximation as
 EX:
 
 $$
-\phi_{i} = -1 + 2\sum_{h=1}^{N_{\gamma}}2^{-h}z_{(i,h)^{\phi}}, i\in\[N\]
+\phi_{i} = -1 + 2\displaystyle\sum_{h=1}^{N_{\gamma}}2^{-h}z_{(i,h)^{\phi}}, i\in\[N\]
 $$
